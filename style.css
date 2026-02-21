@@ -1,0 +1,13 @@
+<link rel="stylesheet" href="style.css">
+body {
+  background-color: #f3e5d8;
+  font-family: Arial, sans-serif;
+}
+
+.ingredients {
+  list-style-type: square;
+}
+
+.steps {
+  list-style-type: decimal;
+}
